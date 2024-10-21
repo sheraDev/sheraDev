@@ -3,7 +3,7 @@
 ```php
 class Profile {
 
-    private $info = "Fullstack web dev, software Dev";
+    private $info = "Fullstack developer,";
 
     private $technos = [
         # Prog langages
